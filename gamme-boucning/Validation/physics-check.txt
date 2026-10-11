@@ -1,0 +1,5 @@
+PASS: Unity compiled the scripts and saved ParkPhysicsEnvironment.unity.
+PASS: Two non-kinematic, gravity-enabled Rigidbody spheres.
+PASS: Ground Plane has a MeshCollider.
+PASS: Both spheres bounced upwards after falling under gravity.
+PASS: Neither sphere fell through the ground during 12 simulated seconds.
